@@ -1,2 +1,2 @@
-10
-539
+#!/bin/bash
+printf "%x\n" $DECIMAL
